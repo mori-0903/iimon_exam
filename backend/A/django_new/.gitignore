@@ -1,4 +1,4 @@
 *.log
 *.pyc
 __pycache__/
-settings_local_sample.py
+settings_local.py
